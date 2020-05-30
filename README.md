@@ -9,7 +9,7 @@ If you find this work useful, you can cite our paper using:
 ```
 
 If there are any technical questions after the README, please contact:
-* connectthapa84@gmail.com
+* (maybe DETAIL email, if we have one)
 
 
 ## Core Team
