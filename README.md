@@ -36,7 +36,16 @@ The main requirements are listed below:
 
 ## Dataset
 
+The dataset we used in out experiment consists of cat-vs-dog dataset and butterfly dataset. The link to these datasets are given below
+
+* Cat-vs-Dog: https://www.kaggle.com/c/dogs-vs-cats/data
+* Butterfly: http://www.josiahwang.com/dataset/leedsbutterfly/
+
+We have also provited a imgs_data folder with 40 images each of cats, dogs, and butterfly images separated. If you want to use it, please copy and paste the entire imgs_data folder inside the main project file, for example (Laplacian2-5.0/imgs_data) 
+
 ## Training
+
+
 
 ## Testing
 
