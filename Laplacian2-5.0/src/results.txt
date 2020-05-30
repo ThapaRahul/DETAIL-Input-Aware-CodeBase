@@ -1,0 +1,24 @@
+The best setting is:[0.024 0.0024 0.024 0.00072 0.0 0.00072 0.024 0.0024 0.024 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 ]
+The corresponding energy is:11186.312000000005J
+Compared to exact setting, this setting will save 74.76372047374478% energy
+
+The best setting is:[0.024 0.0024 0.024 0.0024 0.0 0.0 0.024 0.00072 0.024 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 ]
+The corresponding energy is:15106.312000000005J
+Compared to exact setting, this setting will save 65.92021461203447% energy
+
+The best setting is:[0.024 0.0024 0.024 0.0024 0.0 0.0024 0.024 0.0024 0.024 0.004 0.0 0.0 0.0 0.0 0.0 0.0 0.0 ]
+The corresponding energy is:11042.429000000006J
+Compared to exact setting, this setting will save 75.08832000280104% energy
+
+The best setting is:[0.024 0.0024 0.024 0.0024 0.00072 0.0024 0.024 0.0024 0.024 0.004 0.004 0.0 0.0 0.0 0.0 0.0 0.0 ]
+The corresponding energy is:7118.5459999999985J
+Compared to exact setting, this setting will save 83.94058589850653% energy
+
+The best setting is:[0.024 0.008 0.024 0.0024 0.00072 0.0024 0.024 0.0024 0.024 0.004 0.004 0.004 0.0 0.0 0.0 0.004 0.0 ]
+The corresponding energy is:6920.779999999999J
+Compared to exact setting, this setting will save 84.38674528122259% energy
+
+The best setting is:[0.024 0.008 0.024 0.024 0.00072 0.00072 0.024 0.0024 0.024 0.004 0.0 0.0 0.0 0.004 0.0 0.004 0.004 ]
+The corresponding energy is:6650.779999999999J
+Compared to exact setting, this setting will save 84.99586430741182% energy
+
