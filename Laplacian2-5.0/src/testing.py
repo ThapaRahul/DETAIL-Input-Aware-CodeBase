@@ -24,10 +24,6 @@ with open('finalSetting.data', 'rb') as filehandle:
     arr = pickle.load(filehandle)
 
 
-arr = [0.024, 0.008, 0.024, 0.024, 0.00072, 0.00072, 0.00072, 0.0024, 0.024, 0.004, 0.0, 0.0, 0.0, 0.004, 0.0, 0.0, 0.004 ]
-
-#arr = [0.024, 0.0024, 0.024, 0.00072, 0.0, 0.00072, 0.024, 0.0024, 0.024, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-
 value = []
 
 os.system("make")
@@ -45,7 +41,7 @@ for number in range(0,40):
     psnr_value = Function.psnr1(img1,img2) #Calculate psnr value
     value.append(psnr_value)
 
-f = open('./trainResults.txt',"a+")
+f = open('./testResults.txt',"a+")
 count = 0
 f.write("[")
 for x in value:
