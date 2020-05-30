@@ -46,7 +46,7 @@ for number in range(0,40):
     psnr_value = Function.psnr1(img1,img2) #Calculate psnr value
     value.append(psnr_value)
 
-f = open('./trainResults.txt',"a+")
+f = open('./testResults.txt',"a+")
 count = 0
 f.write("[")
 for x in value:
