@@ -16,7 +16,6 @@ If there are any technical questions after the README, please contact:
 * Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 	* Xun Jiao (Faculty)
 	* Dongning Ma (Ph.D. Students)
-	* Wanli Chang (Ph.D. Students)
 	* Rahul Thapa (Undergraduate Student)
 	* Xingjian Wang (Undergraduate Student)
 
