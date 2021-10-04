@@ -1,16 +1,10 @@
 # DETAIL-Input-Aware-CodeBase
 
-**Note: Please after the paper is published or put in the archive. Also we need to put bibtex so that if they happen to use our work, they can cite it.**
-
 If you find this work useful, you can cite our paper using:
 
 ```
 (bibtex)
 ```
-
-If there are any technical questions after the README, please contact:
-* (maybe DETAIL email, if we have one)
-
 
 ## Core Team
 * Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
