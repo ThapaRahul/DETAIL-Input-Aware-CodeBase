@@ -4,6 +4,14 @@ If you find this work useful, you can cite our paper using:
 
 ```
 (bibtex)
+@inproceedings{ma2021workload,
+  title={Workload-aware approximate computing configuration},
+  author={Ma, Dongning and Thapa, Rahul and Wang, Xingjian and Jiao, Xun and Hao, Cong},
+  booktitle={2021 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},
+  pages={920--925},
+  year={2021},
+  organization={IEEE}
+}
 ```
 
 ## Core Team
